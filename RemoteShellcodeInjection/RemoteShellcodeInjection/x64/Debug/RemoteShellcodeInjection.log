@@ -1,0 +1,15 @@
+﻿  remoteShellcodeInjection.c
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(31,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(35,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(75,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(75,59): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(123,19): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(155,41): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(155,41): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 3
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(155,72): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(155,72): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 6
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(131,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(132,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(167,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\RemoteShellcodeInjection\remoteShellcodeInjection.c(169,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  RemoteShellcodeInjection.vcxproj -> C:\Users\MalDevUser\Documents\RemoteShellcodeInjection\x64\Debug\RemoteShellcodeInjection.exe

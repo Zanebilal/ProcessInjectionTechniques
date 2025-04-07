@@ -1,0 +1,11 @@
+﻿  remoteDllInjection.c
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(40,47): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(40,47): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 3
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(40,78): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(40,78): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 6
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(15,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(59,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(59,59): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(107,19): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MalDevUser\Documents\RemoteDllInjection\RemoteDllInjection\remoteDllInjection.c(118,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  RemoteDllInjection.vcxproj -> C:\Users\MalDevUser\Documents\RemoteDllInjection\x64\Debug\RemoteDllInjection.exe

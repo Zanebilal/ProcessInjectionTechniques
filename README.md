@@ -1,12 +1,12 @@
-# 💉 Process Injection Techniques
+# Process Injection Techniques
 
 This repository contains a collection of classic and modern payload injection techniques, commonly used in malware development, red teaming, and post-exploitation. The goal is to provide clean, understandable examples for educational and research purposes.
 
-> ⚠️ **Disclaimer:** This project is for **educational** purposes only. The author does **not condone** or support any malicious or illegal activity. Use responsibly in lab environments only.
+> ⚠**Disclaimer:** This project is for **educational** purposes only. The author does **not condone** or support any malicious or illegal activity. Use responsibly in lab environments only.
 
 ---
 
-## 📌 Description
+##  Description
 
 Payload injection is a technique used to execute arbitrary code in the context of another process. This is a core part of offensive operations, post-exploitation, and malware behavior. The examples in this repository demonstrate how attackers inject DLLs or obfuscated shellcode into remote processes using Windows API functions.
 
@@ -15,7 +15,7 @@ Payload injection is a technique used to execute arbitrary code in the context o
 - **Remote Dll Injection**
 - **Remote Shellcode Injection**
 
-## 🧰 Features
+## Features
 
 - Lightweight and simple C implementations.
 - Can be easily integrated into other malware or red team projects.
@@ -28,9 +28,5 @@ Payload injection is a technique used to execute arbitrary code in the context o
 ```bash
     git clone https://github.com/Zanebilal/ProcessInjectionTechniques
 ```
-2.  Navigate to the desired technique folder and compile: 
-
-```bash
-    cd /RemoteDllInjection/RemoteDllInjection/remoteDllInjection.c
-    gcc remoteDllInjection.c -o remoteDllInjection
- ```
+2.open the desired injection tequnique in microsoft vscode
+3. build the file in the solution mode
